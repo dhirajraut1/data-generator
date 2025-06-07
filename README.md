@@ -38,6 +38,13 @@ A powerful web application for generating customizable mock data using pattern m
 | Status        | `["Active", "Inactive"]`  | Active                  |
 | Nepali Mobile | `+977-98#######`          | +977-9841234567         |
 
+Add Patterns
+![image](https://github.com/user-attachments/assets/e615722b-a8e9-4429-8e01-9cd1debb6198)
+
+Generate and Download Data as CSV or XLSX.
+![image](https://github.com/user-attachments/assets/47827c19-6b85-4457-9556-98b388d0479c)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
